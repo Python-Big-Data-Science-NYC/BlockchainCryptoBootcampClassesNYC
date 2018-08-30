@@ -31,5 +31,9 @@ https://docs.google.com/document/d/1hczvkYgx31eWRRQprn6gRWh1qlfsd94osiYfR-c6n8Y/
 <br>
 <br>
 
+Metamask:
+<br>
+https://docs.google.com/document/d/1dMQnZk6hLKJtPkGNt62nIvJjDA7NcZqRWEsiG1AU-hA/edit?usp=sharing
+
 Notebooks:
 https://notebooks.azure.com/shivgan3/libraries/BlockchainBootcamp101
