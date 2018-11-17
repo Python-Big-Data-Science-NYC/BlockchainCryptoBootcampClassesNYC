@@ -1,5 +1,7 @@
 Blockchain 101
 <br>
+lnkd.in/d2nhP8z
+<br>
 https://www.udemy.com/blockchain-101-beginners-free-course-bootcamp-cryptocurrency
 <br> <br>
 https://docs.google.com/presentation/d/1y4cP4l026D09oBEu-Z5Ge4QfoYLAhDQiokn7EowIAWg/edit?usp=sharing
